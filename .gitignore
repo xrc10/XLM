@@ -4,6 +4,8 @@
 ### Data and Checkpoints ###
 data/
 exp/
+scripts/
+tools/
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
